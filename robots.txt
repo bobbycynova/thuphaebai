@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiyapaeco.ssk114.kr/sitemap.xml
